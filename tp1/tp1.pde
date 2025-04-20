@@ -115,12 +115,43 @@ vertex(760,186);
 vertex(739,235);//borde
 endShape();
 
+fill(#e3cb3b);//color mejilla der amarilla
+stroke(#e3cb3b);
+beginShape();//mejilla amarilla der
+vertex(715,124);//
+vertex(612,35);//
+vertex(610,30);//
+vertex(610,12);//borde
+vertex(650,20);
+vertex(681,31);
+vertex(730,70);
+vertex(759,124);
+endShape();
+
+fill(#efefea);//parpado der
+stroke(#efefea);
+beginShape();//parpado dr
+vertex(710,50);
+vertex(710,120);
+vertex(615,136);
+endShape();
+
+fill(#d8a147);//parpado der
+stroke(#d8a147);
+beginShape();//parpado dr
+vertex(618,136);
+vertex(636,107);
+vertex(666,94);
+vertex(710,109);
+vertex(716,143);
+endShape();
+
 fill(#bd541b);//color mejilla der naranja detalle
 stroke(#bd541b);
 beginShape();//detalle naranja der
-vertex(710,150);//
-vertex(710,126);//
-vertex(760,126);//
+vertex(712,150);//
+vertex(712,125);//
+vertex(760,125);//
 vertex(763,150);//
 endShape();
 
